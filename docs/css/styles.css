@@ -1,0 +1,52 @@
+#wrapper{
+    width: 960px;
+}
+#top{
+    height: 135px;
+    line-height: 135px;
+}
+.marginCenter{
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo{
+    height: 135px;
+}
+.wrapperPaddingRight{
+    padding-right: 31px;
+}
+.grBig{
+    width: 600px;
+}
+.floatLeft{
+    float:left;
+}
+.displayInline{
+    display: inline;
+}
+.grSmall{
+    width: 329px;
+}
+.Helvetica{
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.textRight{
+    text-align:right
+}
+.clearMargin{
+    margin:0px;
+}
+.clearPadding{
+    padding: 0px;
+}
+#banner h1{
+    position:relative;
+    top: 0px;
+    left: 100px;
+}
+.clearFix{
+    clear:both;
+}
+.clearMargin{
+    margin:0px;
+}
